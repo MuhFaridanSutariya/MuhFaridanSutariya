@@ -14,7 +14,7 @@
 </div>
 
 
-
+## Latest Project
 |                                                                                   Project Name 	|                                                                                                                                                                                                                                                                                             Description 	|
 |-----------------------------------------------------------------------------------------------:	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
 |                           [Super Cashier](https://github.com/MuhFaridanSutariya/super-cashier) 	| This project aims to enable supermarkets to minimize the costs that must be paid to the cashier's<br>work so that the money can be allocated to more important departments.                                                                                                                             	|
