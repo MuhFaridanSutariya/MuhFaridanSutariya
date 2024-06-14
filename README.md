@@ -13,3 +13,5 @@
   - Data Engineering
 
 ![Faridan's Stats](https://github-readme-stats.vercel.app/api?username=MuhFaridanSutariya&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=MuhFaridanSutariya&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
