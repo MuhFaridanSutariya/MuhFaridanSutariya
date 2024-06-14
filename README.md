@@ -9,4 +9,5 @@
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
+  - Computer Vision
   - Data Engineering
