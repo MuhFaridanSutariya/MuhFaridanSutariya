@@ -1,14 +1,12 @@
-### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/faridan-0A66C2?logo=linkedin&logoColor=fff&style=flat&href=https://www.linkedin.com/in/muh-faridan-sutariya-2304b41b7/)](https://www.linkedin.com/in/muh-faridan-sutariya-2304b41b7/) [![Gmail Badge](https://img.shields.io/badge/sutariyaf27@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat&href=mailto:sutariyaf27@gmail.com)](mailto:sutariyaf27@gmail.com)
 
-<div class="grid">
-  <div id="item-1">
-    <ul>
-      <li>🌱 I’m currently learning Artificial Intelligence and Data Engineering</li>
-      <li>👯 If you need something from me, feel free to contact me at :</li>
-      <a href="https://www.linkedin.com/in/muh-faridan-sutariya-2304b41b7/"><img alt="linkedin" width="3%" style="padding:5px" src="https://img.icons8.com/linkedin"/></a>
-	      <a href="https://twitter.com/FaridanMuhammad"><img alt="twitter" width="3%" style="padding:5px" src="https://img.icons8.com/twitter"/></a>
-    </ul>
-  </div>
-  </div>
-</div>
+# Hi there 👋 
 
+### About Me 🤔
+
+- 🎓 Computer Science Undergraduate @ [Universitas Mulia](https://universitasmulia.ac.id/).
+- 💻 Currently working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en). Previously working as Data/ML Engineer @ [Pipeline Marketing Technology](https://pipeline.co.id/en/) & @ [Nocode Magician](https://www.nocodemagician.com/).
+- 📚 Currently learning/pursuing about:
+  - Machine Learning Lifecycle
+  - Large Language Model
+  - Data Engineering
