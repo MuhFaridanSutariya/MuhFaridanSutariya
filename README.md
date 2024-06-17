@@ -5,7 +5,7 @@
 ### About Me 🤔
 
 - 🎓 Computer Science Undergraduate @ [Universitas Mulia](https://universitasmulia.ac.id/).
-- 💻 Currently working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en). Previously working as Data/ML Engineer @ [Pipeline Marketing Technology](https://pipeline.co.id/en/) & @ [Nocode Magician](https://www.nocodemagician.com/).
+- 💻 Currently working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en). Previously working as Data/ML Engineer @ [Pipeline Marketing Technology](https://pipeline.co.id/en/) and @ [Nocode Magician](https://www.nocodemagician.com/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
