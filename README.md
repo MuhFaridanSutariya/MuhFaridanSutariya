@@ -12,5 +12,3 @@
   - Computer Vision
   - Data Engineering
   - Software Engineering
-
-![Faridan's Stats](https://github-readme-stats.vercel.app/api?username=MuhFaridanSutariya&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
