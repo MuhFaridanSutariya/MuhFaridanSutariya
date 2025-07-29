@@ -5,7 +5,7 @@
 ### About Me 🤔
 
 - 🎓 Computer Science Undergraduate @ [Universitas Mulia](https://universitasmulia.ac.id/).
-- 💻 Currently working as Artificial Intelligence Engineer @ [Jatis Mobile](https://jatismobile.com/). Previously working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and Data/ML Engineer @ [Pipeline Marketing Technology](https://pipeline.co.id/en/).
+- 💻 Currently working as Artificial Intelligence Engineer @ [Jatis Mobile](https://jatismobile.com/). Previously working as Data Engineer & Artificial Intelligence Engineer @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [Pipeline Marketing Technology](https://pipeline.co.id/en/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
