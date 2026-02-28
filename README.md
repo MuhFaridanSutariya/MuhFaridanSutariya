@@ -4,7 +4,6 @@
 
 ### About Me 🤔
 
-- 🎓 Computer Science Bachelor @ [Universitas Mulia](https://universitasmulia.ac.id/).
 - 💻 Currently working as Artificial Intelligence Engineer @ [MNC Group](https://www.mncgroup.com/). Previously working as Data Engineer & Artificial Intelligence Engineer @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [Pipeline Marketing Technology](https://pipeline.co.id/en/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
