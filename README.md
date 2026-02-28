@@ -4,7 +4,7 @@
 
 ### About Me 🤔
 
-- 💻 Currently working as Artificial Intelligence Engineer @ [MNC Group](https://www.mncgroup.com/). Previously working as Data Engineer & Artificial Intelligence Engineer @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
+- 💻 Currently working as Artificial Intelligence Engineer @ [MNC Group](https://www.mncgroup.com/). Previously working as Artificial Intelligence Engineer @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
