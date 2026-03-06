@@ -4,7 +4,7 @@
 
 ### About Me 🤔
 
-- 💻 Artificial Intelligence Engineer with a track record of delivering AI solutions at @ [MNC Group](https://www.mncgroup.com/), @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
+- 💻 Artificial Intelligence Engineer with a track record of delivering AI solutions at @ [Nesso Labs](https://nessodigitale.it/) @ [MNC Group](https://www.mncgroup.com/), @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
