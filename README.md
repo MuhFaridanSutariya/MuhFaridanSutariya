@@ -4,7 +4,7 @@
 
 ### About Me 🤔
 
-- 💻 Artificial Intelligence Engineer with a track record of delivering AI solutions at @ [Earlybird AI](https://www.earlybirdfinance.ai/) @ [Avvista](https://avvista.ai/), @ [MNC Group](https://www.mncgroup.com/), @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
+- 💻 Artificial Intelligence Engineer with a track record of delivering AI solutions at @ [Earlybird AI](https://www.earlybirdfinance.ai/) @ [Avvista (Aquired by Cato AI)](https://avvista.ai/), @ [MNC Group](https://www.mncgroup.com/), @ [Jatis Mobile](https://jatismobile.com/), @ [Kalbe Digital Lab](https://www.kalbe.co.id/en) and @ [7-Network Pte Ltd.](https://7-network.com/international/).
 - 📚 Currently learning/pursuing about:
   - Machine Learning Lifecycle
   - Large Language Model
